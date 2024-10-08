@@ -74,6 +74,5 @@ def process_images_with_navigation(image_directory):
     
     plt.show()
 
-# Example usage
 image_directory = 'D:/IT/Coding Workspace/Projects/ADAS_Peformance_Optimization/images/image_00/Data'
 process_images_with_navigation(image_directory)
